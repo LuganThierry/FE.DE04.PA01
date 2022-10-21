@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(218, 247, 166);
+}
+
+header {
+    text-align: center;
+    font-size: 50px;
+}
+
+.box {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+.videos {
+    display: inline-block;
+    margin: 30px 30px;
+}
